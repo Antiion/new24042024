@@ -12,3 +12,6 @@ import math
 # print(total)
 print(math.sin(math.degrees(60)))
 
+
+hello = 'hello world'
+print(hello)
